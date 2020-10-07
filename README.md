@@ -1,6 +1,6 @@
 # FAU Introduction to Data Science - guest talk
 
-Presentation given to Dr. Marques Introdcution to Data Science class - Fall 2020
+Presentation given to [Dr. Marques'](https://www.ogemarques.com/) Introduction to Data Science class - Fall 2020
 
 **Answering Questions with Data, bridging the gap between technical analysis and stakeholders point-of-view with Jupyter notebooks** 
 
