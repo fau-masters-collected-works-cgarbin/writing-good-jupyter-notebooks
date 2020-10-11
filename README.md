@@ -37,7 +37,7 @@ The presentation is in [this file](./presentation.pdf).
 ## Running the notebooks
 
 1. Clone this repository
-1. cd <folder for the cloned repository>
+1. cd &lt;folder for the cloned repository&gt;
 1. Create a [Python environment](https://docs.python.org/3/tutorial/venv.html): `python3 -m venv env`
 1. Activate the repository: `source env/bin/activate` (Mac and Linux), or `env\Scripts\activate.bat` (Windows)
 1. Install dependencies (only once): `pip install -r requirements.txt`
