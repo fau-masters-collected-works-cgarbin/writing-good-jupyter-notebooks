@@ -15,7 +15,7 @@ What is a _good_ notebook?
 * Important assumptions and decisions are spelled out
 * Code is easy to understand
 * Code is flexible (easy to modify)
-* Code is reliable (hard to break)
+* Code is resilient (hard to break)
 
 We transform it in a sequence of steps. Each step addresses a set of related items.
 
