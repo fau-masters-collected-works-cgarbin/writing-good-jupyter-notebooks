@@ -40,6 +40,7 @@ The presentation is in [this file](./presentation.pdf).
 1. cd &lt;folder for the cloned repository&gt;
 1. Create a [Python environment](https://docs.python.org/3/tutorial/venv.html): `python3 -m venv env`
 1. Activate the environment: `source env/bin/activate` (Mac and Linux), or `env\Scripts\activate.bat` (Windows)
+1. Update pip: `python -m pip install --upgrade pip`
 1. Install dependencies (only once): `pip install -r requirements.txt`
 1. Run the notebooks: `jupyter lab`
 
