@@ -1,8 +1,6 @@
-# FAU Introduction to Data Science - guest talk
+# Writing good Jupyter notebooks
 
-Presentation given to [Dr. Marques'](https://www.ogemarques.com/) Introduction to Data Science class - Fall 2020
-
-**Answering Questions with Data, bridging the gap between technical analysis and stakeholders' point-of-view with Jupyter notebooks** 
+Adapted from an invited lecture presented in [Dr. Marques'](https://www.ogemarques.com/) Introduction to Data Science class - Fall 2020, _Answering Questions with Data, bridging the gap between technical analysis and stakeholders' point-of-view with Jupyter notebooks_.
 
 * How to write well-structured, understandable, resilient, flexible Jupyter notebooks
 * How to present the results of our investigations to the people who asked the questions, the stakeholders
@@ -20,7 +18,7 @@ What is a _good_ notebook?
 We will transform the original notebook into a good one, step by step. Each step addresses a set of related items.
 
 - [Step 1](salary-discrimination-by-gender-step-1.ipynb): the original notebook, the one that lacks structure and proper coding practices.
-- [Step 2](salary-discrimination-by-gender-step-2.ipynb): adds a description, organize into sections, add exploratory data analysis.
+- [Step 2](salary-discrimination-by-gender-step-2.ipynb): add a description, organize into sections, add exploratory data analysis.
 - [Step 3](salary-discrimination-by-gender-step-3.ipynb): make data clean-up more explicit, and explain why certain numbers were chosen (the assumptions behind them).
 - [Step 4](salary-discrimination-by-gender-step-4.ipynb): make the code more flexible with constants, and make the code more difficult to break (more resilient).
 - [Step 5](salary-discrimination-by-gender-step-5.ipynb): make the graphs easier to read.
@@ -30,9 +28,9 @@ Reworked sections are marked with this note:
 
 ![Rework note](./pics/rework-note.png)
 
-## Presentation
+## Invited lecture presentation
 
-The presentation is on [this file](./presentation.pdf).
+The presentation used in the class is on [this file](./presentation.pdf).
 
 [This blog post](https://cgarbin.github.io/writing-good-jupyter-notebooks/) is a written, simplified version of the presentation.
 
