@@ -9,11 +9,11 @@ We start with a Jupyter notebook that produces the right result but lacks good s
 
 What is a _good_ notebook?
 
-* Overall organization is logical
-* Important assumptions and decisions are spelled out
-* Code is easy to understand
-* Code is flexible (easy to modify)
-* Code is resilient (hard to break)
+- The overall organization is logical
+- Important assumptions and decisions are spelled out
+- Code is easy to understand
+- Code is flexible (easy to modify)
+- Code is resilient (hard to break)
 
 We will transform the original notebook into a good one, step by step. Each step addresses a set of related items.
 
