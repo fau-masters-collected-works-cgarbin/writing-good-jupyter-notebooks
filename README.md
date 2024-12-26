@@ -2,8 +2,8 @@
 
 Adapted from an invited lecture presented in [Dr. Marques'](https://www.ogemarques.com/) Introduction to Data Science class - Fall 2020, _Answering Questions with Data, bridging the gap between technical analysis and stakeholders' point-of-view with Jupyter notebooks_.
 
-* How to write well-structured, understandable, resilient, flexible Jupyter notebooks
-* How to present the results of our investigations to the people who asked the questions, the stakeholders
+- How to write well-structured, understandable, resilient, flexible Jupyter notebooks
+- How to present the results of our investigations to the people who asked the questions, the stakeholders
 
 We start with a Jupyter notebook that produces the right result but lacks good structure and proper coding practices and transform it into a good notebook.
 
